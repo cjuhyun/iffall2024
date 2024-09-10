@@ -1,0 +1,30 @@
+section {
+    background-color: rgb(255, 248, 237);
+    border-radius: 50px;
+    width: 400px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px;
+  }
+
+body {
+    text-align:center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:maroon;
+}
+
+p{
+    margin:3px;
+    padding:3px;
+}
+
+header{
+    font-family:'New Rocker';
+    font-size:2em;
+}
+
+.shift{
+    color:lightcoral;
+    
+}
