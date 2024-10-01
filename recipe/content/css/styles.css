@@ -1,0 +1,60 @@
+
+h2{
+    font-family: "Satisfy", cursive;
+    font-size: 25px;  
+    color:darkslategray;
+  
+    
+}
+
+h1{
+    font-family: "Manrope", sans-serif;
+    font-size: 30px;  
+    color:antiquewhite;
+}
+    
+#main{
+    text-align: center;
+    font-size: 50px;
+
+}
+
+html {
+    background-color:darkseagreen;
+    font-family: "Manrope", sans-serif;
+    color:darkslategray;
+    line-height: 20px;
+  }
+
+  body {
+    margin: 10%;
+}
+
+.bodytext {
+    margin-left: 2%;
+}
+
+.subheading{
+    margin-left: 0.5%;
+}
+
+section{
+    margin-bottom: 3rem;
+}
+
+#des{
+    text-align: center;
+    color:darkslategray;
+    font-size: 20px; 
+    margin: 5%;
+}
+
+#intro{
+    border: 2.5px solid antiquewhite;
+    border-radius: 10px;
+    margin: 30px;
+      margin-top: 30px;
+    margin-top: -7px;
+    padding-left: 10px;
+
+}
