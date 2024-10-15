@@ -1,0 +1,127 @@
+header{
+    text-align: center;
+    padding-top: 166px;
+    padding-bottom: 188px;
+    background-image: url('../images/berries.jpg');
+    background-color: rgb(0, 8, 255);
+    background-size: cover;
+}
+
+h1{
+    font-size: 80px;
+    margin: 0;
+    line-height: 1;
+}
+
+h2 {
+    font-size: 30px;
+    margin: 0;
+    line-height: 1;
+    margin-top: 16px;
+}
+
+h3 {
+    font-size: 40px;
+    margin: 0;
+    line-height: 1;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+h4{
+    font-size: 15pt;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+
+body {
+    font-family: "Archivo Narrow", sans-serif;
+    font-size: 18px;
+    line-height: 1.39;
+    color: white;
+}
+
+section{
+    margin: 0 auto;
+    background-color:steelblue;
+    padding-bottom: 37px;
+}
+
+section > div{
+    width: 960px;
+    margin: 0 auto;
+    padding-top: 48px;
+}
+
+section.second {
+    background-color: mediumaquamarine;
+    padding-bottom: 22px;
+}
+
+img.blueberries{
+    float: right;
+    width: 400px;
+    height: 300px;
+    padding-top: 19px;
+    margin: 0 0 25px 40px;
+}
+
+.grid img{
+    width: 200px;
+    height: 150px;
+    padding: 0;
+}
+
+.grid-group{
+    padding: 0; 
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.grid-group li{
+    display: block;
+    width: 50%;
+    margin-bottom: 0px;
+}
+
+.grid{
+    padding: 0;
+    display: grid;
+    grid-template-columns: 1fr 1.25fr;
+    padding-bottom: 18px;
+}
+
+.grid li{
+    width: 100%;
+}
+
+li p{
+    margin-right: 2em;
+    margin-top: 7px;
+}
+
+.last p{
+    text-align: center;
+    font-size: 26px;
+    margin-top: 18px;
+}
+
+.last div{
+    width: 720px;
+}
+
+section.last{
+    padding-bottom: 75px;
+}
+
+footer{
+    color: black;
+    background-color: white;
+}
+
+footer div{
+    padding-left: 171px;
+    padding-top: 41px;
+
+}
