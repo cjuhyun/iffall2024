@@ -42,7 +42,7 @@ body {
     color: white;
 }
 
-section{
+section.first{
     margin: 0 auto;
     background-color:steelblue;
     padding-bottom: 37px;
@@ -113,15 +113,17 @@ li p{
 
 section.last{
     padding-bottom: 75px;
+    background-color:cornflowerblue;
 }
 
 footer{
     color: black;
-    background-color: white;
+    background-color: whitesmoke;
 }
 
-footer div{
-    padding-left: 171px;
+footer>div{
+    margin:auto;
     padding-top: 41px;
-
+    padding-bottom: 41px;
+    width: 960px;
 }
